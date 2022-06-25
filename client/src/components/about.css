@@ -1,0 +1,22 @@
+.aboutContainer{
+    width: 75vw;
+    height: 35vh;
+    padding: 20px;
+    border-radius: 11px;
+    background-color: white;
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin:auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.logoImg{
+    width: 110px;
+}   
+
+
